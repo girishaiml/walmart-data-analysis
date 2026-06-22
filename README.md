@@ -1,6 +1,6 @@
 # Walmart Sales Analysis
 
-I picked up this dataset from Kaggle and just wanted to dig into it and see what the numbers were actually saying. No fancy pipeline, no overengineered code — just a straightforward analysis to understand how Walmart's sales behave across different stores, time periods, and economic conditions.
+I picked up this dataset from Kaggle and just wanted to dig into it and see what the numbers were actually saying. No fancy pipeline, no overengineered code  just a straightforward analysis to understand how Walmart's sales behave across different stores, time periods, and economic conditions.
 
 ---
 
